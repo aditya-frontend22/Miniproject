@@ -67,7 +67,7 @@ function Homepage() {
                 </div>
             </div>
             <div className="flex justify-center">
-                <img src={Image1} className="h-[600px] w-[640px] rounded-2xl" alt=""/>
+                <img src={Image1} className="h-[600px] w-full rounded-2xl" alt=""/>
             </div>
         </div>
         <Brands />
